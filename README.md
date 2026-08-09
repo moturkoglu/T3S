@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/moturkoglu/swiss_crop_thermal">Code</a> •
-  <a href="https://huggingface.co/datasets/EOA-team/SwissCrop25">Dataset: SwissCrop25</a>
+  <a href="https://huggingface.co/datasets/EOA-team/SwissCrop25">Dataset: part of SwissCrop25</a>
 </p>
 
 ---
