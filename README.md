@@ -94,18 +94,18 @@ The implementation used in the paper will be released in this repository.
 If you use T³S, please cite:
 
 ```bibtex
-@inproceedings{turkoglu2026t3s,
-  title     = {T3S: Think in Thermal Time for Generalizable Crop Mapping from Satellite Image Time Series},
-  author    = {Turkoglu, Mehmet Ozgur and Ledain, S{\'e}l{\`e}ne and Lauber, Thomas and Zweidler, Jeffrey and Aasen, Helge},
-  year      = {2026}
+@article{turkoglu2025t3s,
+  title         = {{$T^{3}S$: Think in Thermal Time for Generalizable Crop Mapping from Satellite Image Time Series}},
+  author        = {Turkoglu, Mehmet Ozgur and Ledain, Selene and Zweidler, Jeffrey and Lauber, Thomas and Aasen, Helge},
+  journal       = {arXiv preprint arXiv:2506.12885},
+  year          = {2025},
+  eprint        = {2506.12885},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CV},
+  doi           = {10.48550/arXiv.2506.12885}
 }
 ```
 
 The citation will be updated with the final proceedings information once available.
 
 If you use the **SwissCrop data**, please also cite the **SwissCrop25 dataset paper**. See the citation information on the [SwissCrop25 Hugging Face page](https://huggingface.co/datasets/EOA-team/SwissCrop25).
-
-## Links
-
-- **Code:** https://github.com/moturkoglu/T3S
-- **Dataset:** https://huggingface.co/datasets/EOA-team/SwissCrop25
